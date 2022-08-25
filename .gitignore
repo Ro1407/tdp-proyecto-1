@@ -1,0 +1,6 @@
+#Archivos de configuracion de Eclipse
+.classpath
+.project
+
+#Archivos compilados
+bin/
